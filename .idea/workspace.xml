@@ -115,6 +115,7 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
       <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
       <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1iafzbH3oxstc2cIsx3C22NBtAH" />
@@ -145,7 +146,7 @@
       <workItem from="1602150888324" duration="615000" />
       <workItem from="1602296266350" duration="2493000" />
       <workItem from="1602311187414" duration="1049000" />
-      <workItem from="1602312393956" duration="6217000" />
+      <workItem from="1602312393956" duration="9572000" />
     </task>
     <servers />
   </component>
